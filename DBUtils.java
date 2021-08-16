@@ -1,2 +1,1 @@
-hello im updating 
-git commands are very important
+ git commands are very important
